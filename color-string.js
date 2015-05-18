@@ -1,5 +1,5 @@
 /* MIT license */
-var colorNames = require('color-name');
+var colorNames = require('kk-color-name');
 
 module.exports = {
    getRgba: getRgba,
