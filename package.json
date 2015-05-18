@@ -1,5 +1,5 @@
 {
-  "name": "color-string",
+  "name": "kk-color-string",
   "description": "Parser and generator for CSS color strings",
   "version": "0.3.0",
   "author": "Heather Arthur <fayearthur@gmail.com>",
@@ -17,7 +17,7 @@
   "license": "MIT",
   "main": "./color-string",
   "dependencies": {
-    "color-name": "^1.0.0"
+    "kk-color-name": "^1.0.0"
   },
   "devDependencies": {
   },
