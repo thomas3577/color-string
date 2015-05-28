@@ -1,3 +1,5 @@
+Attention! This is a Fork of [color-string](https://github.com/harthur/color-string/)
+
 # color-string
 
 > library for parsing and generating CSS color strings.
